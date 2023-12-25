@@ -1,0 +1,2 @@
+hi
+this is edited file for bmr2.txt
